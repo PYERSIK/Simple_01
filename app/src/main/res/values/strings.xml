@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mygit_pr01</string>
+    <string name="pressed_cancel_button">Нажата кнопка CANCEL</string>
+    <string name="pressed_ok_button">Нажата кнопка ОК</string>
+    <string name="button">---</string>
+    <string name="button_OK">OK</string>
+    <string name="button_CANCEL">CANCEL</string>
+</resources>
